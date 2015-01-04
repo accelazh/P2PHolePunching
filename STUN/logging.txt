@@ -1,0 +1,132 @@
+2011-3-21 17:34:57 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:34:57 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:34:57 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:34:58 de.javawi.jstun.header.MessageHeader parseHeader
+良好: Binding Response received.
+2011-3-21 17:34:58 de.javawi.jstun.attribute.MappedAddress parse
+良好: Message Attribute: Mapped Address parsed: Address 218.94.159.98, Port 43490.
+2011-3-21 17:34:58 de.javawi.jstun.attribute.SourceAddress parse
+良好: Message Attribute: Source Address parsed: Address 85.214.128.86, Port 3478.
+2011-3-21 17:34:58 de.javawi.jstun.attribute.ChangedAddress parse
+良好: Message Attribute: Changed Address parsed: Address 85.214.119.137, Port 3479.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test1
+良好: Node is natted.
+2011-3-21 17:34:58 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Binding Request sent.
+2011-3-21 17:34:59 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Socket timeout while receiving the response.
+2011-3-21 17:34:59 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Binding Request sent.
+2011-3-21 17:34:59 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Socket timeout while receiving the response.
+2011-3-21 17:34:59 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Binding Request sent.
+2011-3-21 17:35:00 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:35:00 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:35:00 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:35:00 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:35:01 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Socket timeout while receiving the response.
+2011-3-21 17:35:01 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Binding Request sent.
+2011-3-21 17:35:01 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:35:01 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:35:01 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:35:01 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:35:03 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Socket timeout while receiving the response.
+2011-3-21 17:35:03 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Binding Request sent.
+2011-3-21 17:35:03 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:35:03 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:35:03 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:35:03 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:35:04 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Socket timeout while receiving the response.
+2011-3-21 17:35:04 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Binding Request sent.
+2011-3-21 17:35:05 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:35:05 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:35:05 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:35:05 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:35:06 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Socket timeout while receiving the response.
+2011-3-21 17:35:06 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Binding Request sent.
+2011-3-21 17:35:06 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:35:06 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response.
+2011-3-21 17:35:06 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:35:06 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Binding Request sent.
+2011-3-21 17:35:07 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Socket timeout while receiving the response.
+2011-3-21 17:35:07 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Binding Request sent.
+2011-3-21 17:35:08 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response. Maximum retry limit exceed. Give up.
+2011-3-21 17:35:08 de.javawi.jstun.test.DiscoveryTest test1
+良好: Node is not capable of UDP communication.
+2011-3-21 17:35:08 de.javawi.jstun.test.DiscoveryTest test1
+良好: Test 1: Socket timeout while receiving the response. Maximum retry limit exceed. Give up.
+2011-3-21 17:35:08 de.javawi.jstun.test.DiscoveryTest test1
+良好: Node is not capable of UDP communication.
+2011-3-21 17:35:09 de.javawi.jstun.test.DiscoveryTest test2
+良好: Test 2: Socket timeout while receiving the response. Maximum retry limit exceed. Give up.
+2011-3-21 17:35:09 de.javawi.jstun.test.DiscoveryTest test1Redo
+良好: Test 1 redo with changed address: Binding Request sent.
+2011-3-21 17:35:09 de.javawi.jstun.header.MessageHeader parseHeader
+良好: Binding Response received.
+2011-3-21 17:35:09 de.javawi.jstun.attribute.MappedAddress parse
+良好: Message Attribute: Mapped Address parsed: Address 218.94.159.98, Port 45073.
+2011-3-21 17:35:09 de.javawi.jstun.attribute.SourceAddress parse
+良好: Message Attribute: Source Address parsed: Address 85.214.119.137, Port 3479.
+2011-3-21 17:35:09 de.javawi.jstun.attribute.ChangedAddress parse
+良好: Message Attribute: Changed Address parsed: Address 85.214.128.86, Port 3478.
+2011-3-21 17:35:09 de.javawi.jstun.test.DiscoveryTest test1Redo
+良好: Node is behind a symmetric NAT.

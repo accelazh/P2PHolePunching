@@ -1,0 +1,333 @@
+Local socket set up: address = /192.168.43.35:3552
+
+************************************************
+Stun Server: jstun.javawi.de
+Stun Port: 3478
+************************************************
+
+====Testing with sending to orign IP and orign port====
+Request sent to jstun.javawi.de/85.214.128.86:3478
+Reply received from /85.214.128.86:3478
+Mapped Address: Address 218.94.159.98, Port 2254
+Changed Address: Address 85.214.119.137, Port 3479
+
+====Testing with sending to orign IP and changed port====
+Request sent to jstun.javawi.de/85.214.128.86:3479
+Reply received from /85.214.128.86:3479
+Mapped Address: Address 218.94.159.98, Port 2343
+Changed Address: Address 85.214.119.137, Port 3478
+
+====Testing with sending to changed IP and orign port====
+Request sent to /85.214.119.137:3478
+Reply received from /85.214.119.137:3478
+Mapped Address: Address 218.94.159.98, Port 2421
+Changed Address: Address 85.214.128.86, Port 3479
+
+====Testing with sending to changed IP and changed port====
+Request sent to /85.214.119.137:3479
+Reply received from /85.214.119.137:3479
+Mapped Address: Address 218.94.159.98, Port 2504
+Changed Address: Address 85.214.128.86, Port 3478
+
+====Testing with receiving from orign IP and changed port====
+Request sent to jstun.javawi.de/85.214.128.86:3478
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and orign port====
+Request sent to jstun.javawi.de/85.214.128.86:3478
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and changed port====
+Request sent to jstun.javawi.de/85.214.128.86:3478
+Can't receive the reply: socket time out.
+
+
+************************************************
+Stun Server: stun.ekiga.net
+Stun Port: 3478
+************************************************
+
+====Testing with sending to orign IP and orign port====
+Request sent to stun.ekiga.net/75.101.138.128:3478
+Reply received from /75.101.138.128:3478
+Mapped Address: Address 218.94.159.98, Port 6200
+Changed Address: Address 75.101.138.128, Port 3479
+
+====Testing with sending to orign IP and changed port====
+Request sent to stun.ekiga.net/75.101.138.128:3479
+Reply received from /75.101.138.128:3479
+Mapped Address: Address 218.94.159.98, Port 6345
+Changed Address: Address 75.101.138.128, Port 3479
+
+====Testing with sending to changed IP and orign port====
+Request sent to /75.101.138.128:3478
+Reply received from /75.101.138.128:3478
+Mapped Address: Address 218.94.159.98, Port 6200
+Changed Address: Address 75.101.138.128, Port 3479
+
+====Testing with sending to changed IP and changed port====
+Request sent to /75.101.138.128:3479
+Can't receive the reply: socket time out.
+
+====Testing with receiving from orign IP and changed port====
+Request sent to stun.ekiga.net/75.101.138.128:3478
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and orign port====
+Request sent to stun.ekiga.net/75.101.138.128:3478
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and changed port====
+Request sent to stun.ekiga.net/75.101.138.128:3478
+Can't receive the reply: socket time out.
+
+
+************************************************
+Stun Server: stun.sipgate.net
+Stun Port: 10000
+************************************************
+
+====Testing with sending to orign IP and orign port====
+Request sent to stun.sipgate.net/217.10.68.152:10000
+Reply received from /217.10.68.152:10000
+Mapped Address: Address 218.94.159.98, Port 11565
+Changed Address: Address 217.10.68.174, Port 10001
+
+====Testing with sending to orign IP and changed port====
+Request sent to stun.sipgate.net/217.10.68.152:10001
+Reply received from /217.10.68.152:10001
+Mapped Address: Address 218.94.159.98, Port 11694
+Changed Address: Address 217.10.68.174, Port 10001
+
+====Testing with sending to changed IP and orign port====
+Request sent to /217.10.68.174:10000
+Reply received from /217.10.68.174:10000
+Mapped Address: Address 218.94.159.98, Port 11805
+Changed Address: Address 217.10.68.152, Port 10000
+
+====Testing with sending to changed IP and changed port====
+Request sent to /217.10.68.174:10001
+Reply received from /217.10.68.174:10001
+Mapped Address: Address 218.94.159.98, Port 11923
+Changed Address: Address 217.10.68.152, Port 10000
+
+====Testing with receiving from orign IP and changed port====
+Request sent to stun.sipgate.net/217.10.68.152:10000
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and orign port====
+Request sent to stun.sipgate.net/217.10.68.152:10000
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and changed port====
+Request sent to stun.sipgate.net/217.10.68.152:10000
+Can't receive the reply: socket time out.
+
+
+************************************************
+Stun Server: stun.xten.net
+Stun Port: 3478
+************************************************
+
+====Testing with sending to orign IP and orign port====
+Request sent to stun.xten.net/75.101.138.128:3478
+Reply received from /75.101.138.128:3478
+Mapped Address: Address 218.94.159.98, Port 6200
+Changed Address: Address 75.101.138.128, Port 3479
+
+====Testing with sending to orign IP and changed port====
+Request sent to stun.xten.net/75.101.138.128:3479
+Can't receive the reply: socket time out.
+
+====Testing with sending to changed IP and orign port====
+Request sent to /75.101.138.128:3478
+Reply received from /75.101.138.128:3478
+Mapped Address: Address 218.94.159.98, Port 6200
+Changed Address: Address 75.101.138.128, Port 3479
+
+====Testing with sending to changed IP and changed port====
+Request sent to /75.101.138.128:3479
+Reply received from /75.101.138.128:3479
+Mapped Address: Address 218.94.159.98, Port 6345
+Changed Address: Address 75.101.138.128, Port 3479
+
+====Testing with receiving from orign IP and changed port====
+Request sent to stun.xten.net/75.101.138.128:3478
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and orign port====
+Request sent to stun.xten.net/75.101.138.128:3478
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and changed port====
+Request sent to stun.xten.net/75.101.138.128:3478
+Can't receive the reply: socket time out.
+
+
+************************************************
+Stun Server: stun.sipgate.net
+Stun Port: 10000
+************************************************
+
+====Testing with sending to orign IP and orign port====
+Request sent to stun.sipgate.net/217.10.68.152:10000
+Reply received from /217.10.68.152:10000
+Mapped Address: Address 218.94.159.98, Port 11565
+Changed Address: Address 217.10.68.174, Port 10001
+
+====Testing with sending to orign IP and changed port====
+Request sent to stun.sipgate.net/217.10.68.152:10001
+Reply received from /217.10.68.152:10001
+Mapped Address: Address 218.94.159.98, Port 11694
+Changed Address: Address 217.10.68.174, Port 10001
+
+====Testing with sending to changed IP and orign port====
+Request sent to /217.10.68.174:10000
+Reply received from /217.10.68.174:10000
+Mapped Address: Address 218.94.159.98, Port 11805
+Changed Address: Address 217.10.68.152, Port 10000
+
+====Testing with sending to changed IP and changed port====
+Request sent to /217.10.68.174:10001
+Reply received from /217.10.68.174:10001
+Mapped Address: Address 218.94.159.98, Port 11923
+Changed Address: Address 217.10.68.152, Port 10000
+
+====Testing with receiving from orign IP and changed port====
+Request sent to stun.sipgate.net/217.10.68.152:10000
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and orign port====
+Request sent to stun.sipgate.net/217.10.68.152:10000
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and changed port====
+Request sent to stun.sipgate.net/217.10.68.152:10000
+Can't receive the reply: socket time out.
+
+
+************************************************
+Stun Server: stun.softjoys.com
+Stun Port: 3478
+************************************************
+
+====Testing with sending to orign IP and orign port====
+Request sent to stun.softjoys.com/69.4.236.239:3478
+Reply received from /69.4.236.239:3478
+Mapped Address: Address 218.94.159.98, Port 22788
+Changed Address: Address 69.4.236.236, Port 3479
+
+====Testing with sending to orign IP and changed port====
+Request sent to stun.softjoys.com/69.4.236.239:3479
+Reply received from /69.4.236.239:3479
+Mapped Address: Address 218.94.159.98, Port 22896
+Changed Address: Address 69.4.236.236, Port 3478
+
+====Testing with sending to changed IP and orign port====
+Request sent to /69.4.236.236:3478
+Reply received from /69.4.236.236:3478
+Mapped Address: Address 218.94.159.98, Port 22925
+Changed Address: Address 69.4.236.239, Port 3479
+
+====Testing with sending to changed IP and changed port====
+Request sent to /69.4.236.236:3479
+Reply received from /69.4.236.236:3479
+Mapped Address: Address 218.94.159.98, Port 23000
+Changed Address: Address 69.4.236.239, Port 3478
+
+====Testing with receiving from orign IP and changed port====
+Request sent to stun.softjoys.com/69.4.236.239:3478
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and orign port====
+Request sent to stun.softjoys.com/69.4.236.239:3478
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and changed port====
+Request sent to stun.softjoys.com/69.4.236.239:3478
+Can't receive the reply: socket time out.
+
+
+************************************************
+Stun Server: stun.voipstunt.com
+Stun Port: 3478
+************************************************
+
+====Testing with sending to orign IP and orign port====
+Request sent to stun.voipstunt.com/77.72.169.166:3478
+Reply received from /77.72.169.166:3478
+Mapped Address: Address 218.94.159.98, Port 25492
+Changed Address: Address 77.72.169.167, Port 3479
+
+====Testing with sending to orign IP and changed port====
+Request sent to stun.voipstunt.com/77.72.169.166:3479
+Reply received from /77.72.169.166:3479
+Mapped Address: Address 218.94.159.98, Port 25610
+Changed Address: Address 77.72.169.167, Port 3478
+
+====Testing with sending to changed IP and orign port====
+Request sent to /77.72.169.167:3478
+Reply received from /77.72.169.167:3478
+Mapped Address: Address 218.94.159.98, Port 25687
+Changed Address: Address 77.72.169.166, Port 3479
+
+====Testing with sending to changed IP and changed port====
+Request sent to /77.72.169.167:3479
+Reply received from /77.72.169.167:3479
+Mapped Address: Address 218.94.159.98, Port 25779
+Changed Address: Address 77.72.169.166, Port 3478
+
+====Testing with receiving from orign IP and changed port====
+Request sent to stun.voipstunt.com/77.72.169.166:3478
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and orign port====
+Request sent to stun.voipstunt.com/77.72.169.166:3478
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and changed port====
+Request sent to stun.voipstunt.com/77.72.169.166:3478
+Can't receive the reply: socket time out.
+
+
+************************************************
+Stun Server: stun.schlund.de
+Stun Port: 3478
+************************************************
+
+====Testing with sending to orign IP and orign port====
+Request sent to stun.schlund.de/212.227.67.195:3478
+Reply received from /212.227.67.195:3478
+Mapped Address: Address 218.94.159.98, Port 28954
+Changed Address: Address 212.227.67.194, Port 3478
+
+====Testing with sending to orign IP and changed port====
+Request sent to stun.schlund.de/212.227.67.195:3478
+Reply received from /212.227.67.195:3478
+Mapped Address: Address 218.94.159.98, Port 28954
+Changed Address: Address 212.227.67.194, Port 3478
+
+====Testing with sending to changed IP and orign port====
+Request sent to /212.227.67.194:3478
+Reply received from /212.227.67.194:3478
+Mapped Address: Address 218.94.159.98, Port 29078
+Changed Address: Address 212.227.67.195, Port 3479
+
+====Testing with sending to changed IP and changed port====
+Request sent to /212.227.67.194:3478
+Reply received from /212.227.67.194:3478
+Mapped Address: Address 218.94.159.98, Port 29078
+Changed Address: Address 212.227.67.195, Port 3479
+
+====Testing with receiving from orign IP and changed port====
+Request sent to stun.schlund.de/212.227.67.195:3478
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and orign port====
+Request sent to stun.schlund.de/212.227.67.195:3478
+Can't receive the reply: socket time out.
+
+====Testing with receiving from changed IP and changed port====
+Request sent to stun.schlund.de/212.227.67.195:3478
+Can't receive the reply: socket time out.
+
